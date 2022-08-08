@@ -20,3 +20,5 @@ app.use('/', routes, applyfee);
 app.listen(PORT, () => {
     console.log(`Server running on port: ${PORT}`);
 })
+
+// THANK YOU FOR USING API
