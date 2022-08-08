@@ -1,6 +1,7 @@
 
 import CoinGecko from 'coingecko-api';
 import express from 'express';
+import fetch from 'node-fetch';
 
 // initialize router
 const router = express.Router();
